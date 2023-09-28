@@ -1,4 +1,4 @@
 # Portfolio_Projects
-this repository wil present all code created in SQL and python programming language form the Projects
+This repository will present all code created in SQL and Python programming languages from the projects.
 
-all code saved as ipynb file such as sql queris I'm using python to present the results and SQl code can still be used on Google Bigquery
+All code is saved as an IPYNB file, like SQL queries, I'm using Python to present the results, and SQL code can still run on Google BigQuery.
